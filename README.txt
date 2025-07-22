@@ -1,1 +1,1 @@
-new file
+A simple shell script that lists active AWS resources based on a given region and service name using AWS CLI.
